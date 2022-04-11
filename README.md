@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @juan1309-ctr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, My name is Juan Carlos!
+-  I am a Data Analyst with experience in Government and in Universities as Researcher. 
+- 🌱 I’m currently working as a freelance political consultant.
+- 💞️ I’m looking to collaborate with  Marketing and Publicity companies as well as Consultancies 
 
-<!---
-juan1309-ctr/juan1309-ctr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My main tools: 
+- Python 🐍. 
+- Tableau 📊. 
+- Exploratory Data Analysis.
+
+I love to play with code and explain what data can show to solve problems. Also, I am looking for collaborate on Data Sciece projects with social impact. 
+
+• 📫 Reach me: juan.gutierrez.valle@gmail.com
